@@ -35,3 +35,4 @@ outputs/
 data/
 *.csv
 *.xlsx
+deploy.zip
