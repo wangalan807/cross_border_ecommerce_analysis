@@ -1,0 +1,12 @@
+streamlit
+boto3
+pandas
+openpyxl
+python-dotenv
+requests
+matplotlib
+plotly
+openai
+rapidfuzz
+sqlalchemy
+numpy
